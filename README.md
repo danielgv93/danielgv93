@@ -7,8 +7,9 @@
 
 - ⚡ Fun fact: **Animal lover and geek**
 
-<h3 align="left">My landing page:</h3>
-<a href="https://danielgv93.github.io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="danielgarciavarela93" height="30" width="40" /></a>
+<h3 align="left">My projects:</h3>
+<a href="https://danielgv93.github.io/mistborn/" target="blank">Misborn</a>
+<a href="https://danielgv93.github.io/gasolinapp-front/" target="blank">Gasolinapp</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

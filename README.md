@@ -8,8 +8,9 @@
 - ⚡ Fun fact: **Animal lover and geek**
 
 <h3 align="left">My projects:</h3>
-<a href="https://danielgv93.github.io/mistborn/" target="blank">Misborn</a>
-<a href="https://danielgv93.github.io/gasolinapp-front/" target="blank">Gasolinapp</a>
+- <a href="https://danielgv93.github.io/mistborn/" target="blank">Misborn</a>
+
+- <a href="https://danielgv93.github.io/gasolinapp-front/" target="blank">Gasolinapp</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

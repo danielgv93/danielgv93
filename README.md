@@ -9,9 +9,9 @@
 
 <h3 align="left">My projects:</h3>
 
-- <a href="https://gasolinapp.chorizox.app" target="_blank">Gasolinapp</a>. React, Nodejs
+- <a target="_blank" href="https://gasolinapp.chorizox.app" target="_blank">Gasolinapp</a>. React, Nodejs
 
-- <a href="https://danielgv93.github.io/mistborn/" target="_blank">Misborn</a>. HTML, CSS (small school proyect)
+- <a target="_blank" href="https://danielgv93.github.io/mistborn/" target="_blank">Misborn</a>. HTML, CSS (small school proyect)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

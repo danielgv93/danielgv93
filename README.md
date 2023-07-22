@@ -9,7 +9,7 @@
 
 <h3 align="left">My projects:</h3>
 
-- <a href="https://danielgv93.github.io/gasolinapp-front/" target="_blank">Gasolinapp</a>. React, Nodejs
+- <a href="gasolinapp.chorizox.app" target="_blank">Gasolinapp</a>. React, Nodejs
 
 - <a href="https://danielgv93.github.io/mistborn/" target="_blank">Misborn</a>. HTML, CSS (small school proyect)
 
